@@ -23,6 +23,7 @@
 ### After setting up the client's network our team worked together to configure the LAN network by:
 1. Configuring the LAN interface,
 ![SBE configured the LAN interface](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/2ed1f4f1115ca96a76dcb47c398877cffe4a4dde/Images/SBE%20configured%20the%20LAN%20interface.png)
-3. verifying the configuration is correct,
-4. configuring the DHCP server for the LAN interface,
-5. and verifying the configuration is correct.
+2. verifying the configuration is correct,
+![SBE verified the correct LAN interface configuration](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/33d112a03bb928ba2af1d0fa924b0d34c9f498b5/Images/SBE%20verified%20the%20correct%20LAN%20interface%20configuration.png)
+3. configuring the DHCP server for the LAN interface,
+4. and verifying the configuration is correct.
