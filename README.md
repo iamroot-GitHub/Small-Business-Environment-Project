@@ -28,4 +28,4 @@
 3. configuring the DHCP server for the LAN interface,
 ![SBE configured the DHCP server for the LAN interface](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/c27acebb51fc936019e32b15ad8dba75823acb0e/Images/SBE%20configured%20the%20DHCP%20server%20for%20the%20LAN%20interface.png)
 4. and verifying the configuration is correct.
-![SBE verified the correct DHCP server LAN interface]()
+![SBE verified the correct DHCP server LAN interface](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/8f7ba1dcc79c3f4710b4d38828b151ab51774e88/Images/SBE%20verified%20the%20correct%20DHCP%20server%20LAN%20interface.png)
