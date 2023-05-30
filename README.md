@@ -1,4 +1,4 @@
 # Small-Business-Environment-Project
 ## In this project I worked together with a team to build a small business environment using GNS3 via FortiClient VPN.
 ### Starting Topology:
-![Starting Topology](SBE Starting Topology.png)
+![Starting Topology](img src="Images/SBE Starting Topology.png")
