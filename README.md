@@ -17,3 +17,5 @@
 4. and the Win10 workstation to the LAN-SWITCH.
 ### Device Topology
 ![SBE Stage 1 Topology Step 2](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/b5c86f7061868929e135293a00e20a7762f0ea6f/Images/SBE%20Stage%201%20Topology%20Step%202.png)
+![SBE Stage 1 Topology Step 3](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/e166ee5785f8f657e7185f423668d92b579fe597/Images/SBE%20Stage%201%20Topology%20Step%203.png)
+![SBE Stage 1 Topology Step 4](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/e166ee5785f8f657e7185f423668d92b579fe597/Images/SBE%20Stage%201%20Topology%20Step%203.png)
