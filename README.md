@@ -11,7 +11,6 @@
 ### Device Topology
 ![SBE Stage 1 Topology Step 1](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/f09713de194f6ce78cd05a4669a69451c6fcffd3/Images/SBE%20Stage%201%20Topology%20Step%201.png)
 ### We linked the following devices in the lab workspace:
-### Device Topology
 ![SBE Stage 1 Topology Step 2](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/b5c86f7061868929e135293a00e20a7762f0ea6f/Images/SBE%20Stage%201%20Topology%20Step%202.png)
 1. WAN port on the firewall to the WAN-SWITCH,
 ![SBE Stage 1 Topology Step 3](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/e166ee5785f8f657e7185f423668d92b579fe597/Images/SBE%20Stage%201%20Topology%20Step%203.png)
