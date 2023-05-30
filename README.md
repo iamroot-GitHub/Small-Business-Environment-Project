@@ -16,6 +16,6 @@
 3. DMZ port on the firewall to the DMZ-SWITCH,
 4. and the Win10 workstation to the LAN-SWITCH.
 ### Device Topology
-1. ![SBE Stage 1 Topology Step 2](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/b5c86f7061868929e135293a00e20a7762f0ea6f/Images/SBE%20Stage%201%20Topology%20Step%202.png)
-2. ![SBE Stage 1 Topology Step 3](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/e166ee5785f8f657e7185f423668d92b579fe597/Images/SBE%20Stage%201%20Topology%20Step%203.png)
-3. ![SBE Stage 1 Topology Step 4](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a54342c71a3c0cd70210251f5d978146b54bd81a/Images/SBE%20Stage%201%20Topology%20Step%204.png)
+![SBE Stage 1 Topology Step 2](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/b5c86f7061868929e135293a00e20a7762f0ea6f/Images/SBE%20Stage%201%20Topology%20Step%202.png)
+![SBE Stage 1 Topology Step 3](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/e166ee5785f8f657e7185f423668d92b579fe597/Images/SBE%20Stage%201%20Topology%20Step%203.png)
+![SBE Stage 1 Topology Step 4](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a54342c71a3c0cd70210251f5d978146b54bd81a/Images/SBE%20Stage%201%20Topology%20Step%204.png)
