@@ -11,7 +11,7 @@
 ### Device Topology
 ![SBE Stage 1 Topology Step 1](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/f09713de194f6ce78cd05a4669a69451c6fcffd3/Images/SBE%20Stage%201%20Topology%20Step%201.png)
 ### We linked the following devices in the lab workspace:
-1. WAN port on the firewall to the WAN-SWTICH,
+1. WAN port on the firewall to the WAN-SWITCH,
 2. LAN port on the firewall to the LAN-SWITCH,
 3. DMZ port on the firewall to the DMZ-SWITCH,
 4. and the Win10 workstation to the LAN-SWITCH.
