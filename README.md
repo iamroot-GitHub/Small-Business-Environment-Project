@@ -8,4 +8,5 @@
 2. two Ethernet switches,
 3. and a Win10 workstation.
 ---
+### Device Topology
 ![SBE Stage 1 Topology Step 1](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/f09713de194f6ce78cd05a4669a69451c6fcffd3/Images/SBE%20Stage%201%20Topology%20Step%201.png)
