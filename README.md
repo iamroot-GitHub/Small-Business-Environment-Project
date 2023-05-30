@@ -22,6 +22,7 @@
 ---
 ### After setting up the client's network our team worked together to configure the LAN network by:
 1. Configuring the LAN interface,
-2. verifying the configuration is correct,
-3. configuring the DHCP server for the LAN interface,
-4. and verifying the configuration is correct.
+![SBE Stage 1 Topology Step 4](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a54342c71a3c0cd70210251f5d978146b54bd81a/Images/SBE%20Stage%201%20Topology%20Step%204.png)
+3. verifying the configuration is correct,
+4. configuring the DHCP server for the LAN interface,
+5. and verifying the configuration is correct.
