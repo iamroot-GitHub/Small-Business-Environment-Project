@@ -22,3 +22,11 @@
 3. added a Win10 workstation to the LAN network,
 4. connected to the firewall GUI from the Win10 workstation,
 5. and completed the network setup through the firewall GUI.
+### In stage 2 we built a Windows domain on Windows Server 2012r2 as follows:
+1. added a Win2012r2 server to the network and linked it up,
+2. prepared the Win2012r2 server for the "Active Directory Domain Services" server role,
+3. installed the "Active Directory Domain Services" server role,
+4. created new Active Directory user accounts,
+5. prepared the Win10 workstation to join the domain,
+6. joined the Win10 workstation to the domain,
+7. and set the desktop background on Win10 with the group policy from the Domain Controller.
