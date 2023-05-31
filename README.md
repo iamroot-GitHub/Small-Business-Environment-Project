@@ -1,5 +1,5 @@
 # Small Business Environment Project
-## In this project I worked together with a team of five personnel to build a small business environment using GNS3 via FortiClient VPN.
+## In this project I worked together with a team of five personnel and a senior engineer to build a small business environment using GNS3 via FortiClient VPN.
 ### Beginning Network Topology
 ![SBE Beginning Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/9f21529a752862ab05b4f8d11650d52c04a7ffb4/Images/SBE%20Starting%20Topology.png)
 ### The client that our Managed Service Provider (MSP) was hired by requested the following:
@@ -36,3 +36,21 @@
 3. installed the "IIS" server role,
 4. added a test webpage,
 5. and verified access over the LAN network.
+### In stage 4 we built a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) webserver on Ubuntu server over the DMZ network as follows:
+1. added an Ubuntu server to the network and linked it up,
+2. prepared the Ubuntu server,
+3. installed DokuWiki,
+4. configured DokuWiki,
+5. and setup a Virtual IP (VIP) for the public side of the webserver on the firewall.
+### In stage 5 we built a File Transfer Protocol (FTP) server on a Win2012r2 server on the DMZ network as follows:
+1. added a Win2012r2 server to the network and linked it up,
+2. prepared the Win2012r2 server,
+3. and installed the FTP service.
+### In stage 6 we researched vendor and other industry sources on hardening or network and documented our findings via a wiki page as follows:
+1. added a page for notes in the wiki,
+2. researched hardening a FortiGate firewall,
+3. researched hardening a Windows 10 workstation,
+4. researched hardening a Windows Server 2012r2,
+5. researched hardening a Ubuntu Server 18.04,
+6. documented our research in the wiki notes page,
+7. and presented our findings to the senior engineer.
