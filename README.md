@@ -30,3 +30,9 @@
 5. prepared the Win10 workstation to join the domain,
 6. joined the Win10 workstation to the domain,
 7. and set the desktop background on Win10 with the group policy from the Domain Controller.
+### In stage 3 we built an Internet Information Services (IIS) webserver on a Win2012r2 server and joined the server to the domain as follows:
+1. added a Win2012r2 server to the network and linked it up,
+2. prepared the Win2012r2 server to join the domain,
+3. installed the "IIS" server role,
+4. added a test webpage,
+5. and verified access over the LAN network.
