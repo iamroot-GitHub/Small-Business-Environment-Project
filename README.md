@@ -54,3 +54,10 @@
 5. researched hardening a Ubuntu Server 18.04,
 6. documented our research in the wiki notes page,
 7. and presented our findings to the senior engineer.
+### As a bonus we scanned our wide area network (WAN) interface and documented our findings via a wiki page as follows:
+1. added a page for notes in the wiki,
+2. connected to our group's Greenbone server,
+3. created a target of the WAN interface IP for the firewall,
+4. scanned the target,
+5. documented our scan in the wiki notes page,
+6. and presented our findings to the senior engineer.
