@@ -15,5 +15,10 @@
 ### Complete Network Topology
 ![SBE Complete Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/3a4b818e3857098b965f8ec363e8480c1daf7d3f/Images/SBE%20Complete%20Network%20Topology.png)
 ---
-**The team completed the small business environment in stages.**
-### In stage 1 we built out the network infrastructure by adding the LAN, GUEST, and DMZ network.
+### The team completed the small business environment in stages.
+### In stage 1 we built out the network infrastructure as follows:
+1. added a LAN, GUEST, and DMZ network, and linked them up,
+2. configured the LAN network on the firewall through the CLI over the console interface,
+3. added a Win10 workstation to the LAN network,
+4. connected to the firewall GUI from the Win10 workstation,
+5. and completed the network setup through the firewall GUI.
