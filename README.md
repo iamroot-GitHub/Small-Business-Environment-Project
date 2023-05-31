@@ -61,7 +61,7 @@
 ![SBE Greenbone Security Assistant Dashboards](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/93dea35e732abb7dcfda3a5e277f8f53deadddec/Images/SBE%20Greenbone%20Security%20Assistant%20Dashboards.png)
 3. created a target of the WAN interface IP for the firewall,
 4. scanned the target,
-![SBE Greenbone Security Assistant Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/26a4829a456008c54babc739962486c1282f0075/Images/SBE%20Greenbone%20Security%20Assistant%20Vulnerabilities.png)
+![SBE Greenbone Security Assistant Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/ff3a110369ed3918289d393bf4d77421f95ca592/Images/SBE%20Greenbone%20Security%20Assistant%20Vulnerabilities.png)
 5. documented our scan in the wiki notes page,
 ![SBE Widgets.localdomain Wiki Greenbone Results](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/ab67fbd3444ab36550fd599aa69ba67c31eb237d/Images/SBE%20Widgets.localdomain%20Wiki%20Greenbone%20Results.png)
 6. and presented our findings to the senior engineer.
