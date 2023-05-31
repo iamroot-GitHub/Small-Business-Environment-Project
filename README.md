@@ -1,9 +1,9 @@
 # Small Business Environment Project
 ## In this project I worked together with a team to build a small business environment using GNS3 via FortiClient VPN.
 ### Beginning Network Topology
-![Starting Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/9f21529a752862ab05b4f8d11650d52c04a7ffb4/Images/SBE%20Starting%20Topology.png)
+![SBE Beginning Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/9f21529a752862ab05b4f8d11650d52c04a7ffb4/Images/SBE%20Starting%20Topology.png)
 ### Complete Network Topology
-![Final Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a8c9d4f3ce734bca02bcfa672821ededdb549a2c/Images/SBE%20Final%20Topology.png)
+![SBE Complete Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/3a4b818e3857098b965f8ec363e8480c1daf7d3f/Images/SBE%20Complete%20Network%20Topology.png)
 ### Our team setup the client's network to include a LAN, Guest, and DMZ network (these networks were built on a FortiNet firewall (a FortiGate)).
 ### We added the following devices to the lab workspace:
 1. a FortiNet firewall,
