@@ -46,7 +46,7 @@
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server,
 3. and installed the FTP service.
-### In stage 6 we researched vendor and other industry sources on hardening or network and documented our findings via a wiki page as follows:
+### In stage 6 we researched vendor and other industry sources on hardening our network and documented our findings via a wiki page as follows:
 1. added a page for notes in the wiki,
 2. researched hardening a FortiGate firewall,
 3. researched hardening a Windows 10 workstation,
