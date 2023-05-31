@@ -62,5 +62,5 @@
 4. scanned the target,
 ![SBE Greenbone Security Assistant Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/26a4829a456008c54babc739962486c1282f0075/Images/SBE%20Greenbone%20Security%20Assistant%20Vulnerabilities.png)
 5. documented our scan in the wiki notes page,
-![]
+![SBE Widgets.localdomain Wiki Greenbone Results](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/b4177f969a57e00d39013b3e5a7adc259446d098/Images/SBE%20Widgets.localdomain%20Wiki%20Greenbone%20Results.png)
 6. and presented our findings to the senior engineer.
