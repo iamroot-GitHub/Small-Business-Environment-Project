@@ -58,7 +58,7 @@
 ### As a bonus we scanned our wide area network (WAN) interface and documented our findings via a wiki page as follows:
 1. added a page for notes in the wiki,
 2. connected to our group's Greenbone server,
-![SBE Greenbone Security Assistant Dashboards](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/5dcecba465f1940b992d41fdf9d826265761cfc1/Images/SBE%20Greenbone%20Security%20Assistant%20Dashboards.png)
+![SBE Greenbone Security Assistant Dashboards](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/93dea35e732abb7dcfda3a5e277f8f53deadddec/Images/SBE%20Greenbone%20Security%20Assistant%20Dashboards.png)
 3. created a target of the WAN interface IP for the firewall,
 4. scanned the target,
 ![SBE Greenbone Security Assistant Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/26a4829a456008c54babc739962486c1282f0075/Images/SBE%20Greenbone%20Security%20Assistant%20Vulnerabilities.png)
