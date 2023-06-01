@@ -98,7 +98,7 @@
 5. researched hardening a Ubuntu Server 18.04,
 6. documented our research in the wiki notes page,
 
-![SBE Wiki Hardening Notes](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/dbed51f6c1852486f33b3d97e5dc497f6123aaa3/Images/SBE_21.png)
+![SBE Wiki Hardening Notes](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/08070bcd9453bff6d82369eb795c93788f819d36/Images/SBE_22.png)
 
 7. and presented our findings to the senior engineer.
 ### As a bonus we scanned our wide area network (WAN) interface and documented our findings via a wiki page as follows:
