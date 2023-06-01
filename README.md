@@ -61,6 +61,8 @@
 ![SBE Test Webpage](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/30e78fd6696c7eb3c79d04a83db4282cd8e9b6ee/Images/SBE_11.png)
 
 5. and verified access over the LAN network.
+
+![SBE Verified Access](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/30e78fd6696c7eb3c79d04a83db4282cd8e9b6ee/Images/SBE_11.png)
 ### In stage 4 we built a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) webserver on Ubuntu server over the DMZ network as follows:
 1. added an Ubuntu server to the network and linked it up,
 2. prepared the Ubuntu server,
