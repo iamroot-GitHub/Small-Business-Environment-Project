@@ -1,7 +1,7 @@
 # Small Business Environment Project
 ## In this project I worked together with a team of five personnel and a senior engineer to build a small business environment using GNS3 via FortiClient VPN.
 ### Beginning Network Topology
-![SBE Beginning Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/9d3e6615395e6d9c23d969c627f98ce05689fc8c/Images/SBE_01.png)
+![SBE Beginning Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a2fc6ae6a7627953cb600a328a8982f625fc734c/Images/SBE_01.png)
 ### The client that our Managed Service Provider (MSP) was hired by requested the following:
 1. a secure network,
 2. an internal Windows Domain,
