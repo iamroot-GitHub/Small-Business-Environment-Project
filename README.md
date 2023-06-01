@@ -33,7 +33,9 @@
 ### In stage 2 we built a Windows domain on Windows Server 2012r2 as follows:
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server for the "Active Directory Domain Services" server role,
+
 ![SBE Prepared Win2012r2 Server](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a76e02741b62d6d5f5391688a91c0690180cdb2e/Images/SBE_06.png)
+
 3. installed the "Active Directory Domain Services" server role,
 4. created new Active Directory user accounts,
 
@@ -65,15 +67,23 @@
 4. researched hardening a Windows Server 2012r2,
 5. researched hardening a Ubuntu Server 18.04,
 6. documented our research in the wiki notes page,
+
 ![SBE Widget.localdomain Wiki Hardening Notes](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/9a05abc427101c8d40e51c0a1c3c148dfc488959/Images/SBE%20Widgets.localdomain%20Wiki%20Hardening%20Notes.png)
+
 7. and presented our findings to the senior engineer.
 ### As a bonus we scanned our wide area network (WAN) interface and documented our findings via a wiki page as follows:
 1. added a page for notes in the wiki,
 2. connected to our group's Greenbone server,
+
 ![SBE Greenbone Security Assistant Dashboards](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/93dea35e732abb7dcfda3a5e277f8f53deadddec/Images/SBE%20Greenbone%20Security%20Assistant%20Dashboards.png)
+
 3. created a target of the WAN interface IP for the firewall,
 4. scanned the target,
+
 ![SBE Greenbone Security Assistant Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/ff3a110369ed3918289d393bf4d77421f95ca592/Images/SBE%20Greenbone%20Security%20Assistant%20Vulnerabilities.png)
+
 5. documented our scan in the wiki notes page,
+
 ![SBE Widgets.localdomain Wiki Greenbone Results](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/ab67fbd3444ab36550fd599aa69ba67c31eb237d/Images/SBE%20Widgets.localdomain%20Wiki%20Greenbone%20Results.png)
+
 6. and presented our findings to the senior engineer.
