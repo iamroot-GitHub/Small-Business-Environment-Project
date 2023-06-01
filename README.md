@@ -110,7 +110,7 @@
 3. created a target of the WAN interface IP for the firewall,
 4. scanned the target,
 
-![SBE Greenbone Security Assistant Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/ff3a110369ed3918289d393bf4d77421f95ca592/Images/SBE%20Greenbone%20Security%20Assistant%20Vulnerabilities.png)
+![SBE GSA Vulnerabilities](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/56fe5942e453dc6426b29474bb32fb694e35b725/Images/SBE_24.png)
 
 5. documented our scan in the wiki notes page,
 
