@@ -86,6 +86,10 @@
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server,
 3. and installed the FTP service.
+
+![SBE Installed FTP_01](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/469b83f9a55e68d6a8a3d666e6b2b48ca2991407/Images/SBE_19.png)
+![SBE Installed FTP_02]
+![SBE Installed FTP_03]
 ### In stage 6 we researched vendor and other industry sources on hardening our network and documented our findings via a wiki page as follows:
 1. added a page for notes in the wiki,
 2. researched hardening a FortiGate firewall,
