@@ -24,6 +24,7 @@
 3. added a Win10 workstation to the LAN network,
 4. connected to the firewall GUI from the Win10 workstation,
 5. and completed the network setup through the firewall GUI.
+![SBE Network Setup Firewall GUI](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/7cab93119258ed0c5b261b81c5ba9933e70da87b/Images/SBE_05.png)
 ### In stage 2 we built a Windows domain on Windows Server 2012r2 as follows:
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server for the "Active Directory Domain Services" server role,
