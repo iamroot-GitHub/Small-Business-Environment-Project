@@ -67,8 +67,8 @@
 1. added an Ubuntu server to the network and linked it up,
 2. prepared the Ubuntu server,
 
-![SBE Prepared Ubuntu Server](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/49276f33336505f10d1977e4506c9ccbc840fc3f/Images/SBE_13.png)
-
+![SBE Prepared Ubuntu Server_01](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/49276f33336505f10d1977e4506c9ccbc840fc3f/Images/SBE_13.png)
+![SBE Prepared Ubuntu Server_02](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/2babbdd0f8646d7793106ca4ddf368a020417641/Images/SBE_14.png)
 
 3. installed DokuWiki,
 4. configured DokuWiki,
