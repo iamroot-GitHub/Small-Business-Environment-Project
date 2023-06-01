@@ -89,7 +89,7 @@
 
 ![SBE Installed FTP_01](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/469b83f9a55e68d6a8a3d666e6b2b48ca2991407/Images/SBE_19.png)
 ![SBE Installed FTP_02](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/93bfefd499abc13bf371d452eea39cd6d68f2195/Images/SBE_20.png)
-![SBE Installed FTP_03]
+![SBE Installed FTP_03](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/dbed51f6c1852486f33b3d97e5dc497f6123aaa3/Images/SBE_21.png)
 ### In stage 6 we researched vendor and other industry sources on hardening our network and documented our findings via a wiki page as follows:
 1. added a page for notes in the wiki,
 2. researched hardening a FortiGate firewall,
