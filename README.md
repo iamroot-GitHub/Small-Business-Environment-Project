@@ -29,11 +29,12 @@
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server for the "Active Directory Domain Services" server role,
 ![SBE Prepared Win2012r2 Server](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a76e02741b62d6d5f5391688a91c0690180cdb2e/Images/SBE_06.png)
-4. installed the "Active Directory Domain Services" server role,
-5. created new Active Directory user accounts,
-6. prepared the Win10 workstation to join the domain,
-7. joined the Win10 workstation to the domain,
-8. and set the desktop background on Win10 with the group policy from the Domain Controller.
+3. installed the "Active Directory Domain Services" server role,
+4. created new Active Directory user accounts,
+![SBE Created AD Users](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/53474993ac5568dda9dcd59cd504143ed8bc4406/Images/SBE_07.png
+5. prepared the Win10 workstation to join the domain,
+6. joined the Win10 workstation to the domain,
+7. and set the desktop background on Win10 with the group policy from the Domain Controller.
 ### In stage 3 we built an Internet Information Services (IIS) webserver on a Win2012r2 server and joined the server to the domain as follows:
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server to join the domain,
