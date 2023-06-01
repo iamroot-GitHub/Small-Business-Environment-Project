@@ -80,6 +80,8 @@
 ![SBE Configured DokuWiki_02](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/e43d0270bfc65583bbaa049534c530b54b3454b8/Images/SBE_17.png)
 
 5. and setup a Virtual IP (VIP) for the public side of the webserver on the firewall.
+
+![SBE Setup VIP](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/583839e557f73097ce8c757f441a238d7efc03a1/Images/SBE_18.png)
 ### In stage 5 we built a File Transfer Protocol (FTP) server on a Win2012r2 server on the DMZ network as follows:
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server,
