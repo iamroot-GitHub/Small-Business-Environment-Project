@@ -105,7 +105,7 @@
 1. added a page for notes in the wiki,
 2. connected to our group's Greenbone server,
 
-![SBE Greenbone Security Assistant Dashboards](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/93dea35e732abb7dcfda3a5e277f8f53deadddec/Images/SBE%20Greenbone%20Security%20Assistant%20Dashboards.png)
+![SBE GSA Dashboards](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/0683bef278d20918c6cb7bc2e3e539048db29e2c/Images/SBE_23.png)
 
 3. created a target of the WAN interface IP for the firewall,
 4. scanned the target,
