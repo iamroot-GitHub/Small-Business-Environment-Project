@@ -19,6 +19,7 @@
 ### In stage 1 we built out the network infrastructure as follows:
 1. added a LAN, GUEST, and DMZ network, and linked them up,
 2. configured the LAN network on the firewall through the CLI over the console interface,
+![SBE Configured the LAN Network](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/3955adc2f427930985298865819c23472dc5139f/Images/SBE_04.png)
 3. added a Win10 workstation to the LAN network,
 4. connected to the firewall GUI from the Win10 workstation,
 5. and completed the network setup through the firewall GUI.
