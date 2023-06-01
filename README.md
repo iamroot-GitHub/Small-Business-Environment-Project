@@ -13,7 +13,7 @@
 8. a DMZ network on a specified IP address,
 9. and a GUEST network on a specified IP address.
 ### Complete Network Topology
-![SBE Complete Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/3a4b818e3857098b965f8ec363e8480c1daf7d3f/Images/SBE%20Complete%20Network%20Topology.png)
+![SBE Complete Network Topology](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/919126fd464dd7e5116256a2d025e637d6a9d3d4/Images/SBE_02.png)
 ---
 ### The team completed the small business environment in stages.
 ### In stage 1 we built out the network infrastructure as follows:
