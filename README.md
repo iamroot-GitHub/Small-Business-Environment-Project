@@ -71,6 +71,9 @@
 ![SBE Prepared Ubuntu Server_02](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/2babbdd0f8646d7793106ca4ddf368a020417641/Images/SBE_14.png)
 
 3. installed DokuWiki,
+
+![SBE Installed DokuWiki](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/4f8cce61c751bb82b0473595263d659eb7b047f1/Images/SBE_15.png)
+
 4. configured DokuWiki,
 5. and setup a Virtual IP (VIP) for the public side of the webserver on the firewall.
 ### In stage 5 we built a File Transfer Protocol (FTP) server on a Win2012r2 server on the DMZ network as follows:
