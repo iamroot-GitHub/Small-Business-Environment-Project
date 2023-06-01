@@ -18,6 +18,7 @@
 ### The team completed the small business environment in stages.
 ### In stage 1 we built out the network infrastructure as follows:
 1. added a LAN, GUEST, and DMZ network, and linked them up,
+![](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/0963a33103d695a9205395733f17539f7f6947a0/Images/SBE_03.png)
 2. configured the LAN network on the firewall through the CLI over the console interface,
 ![SBE Configured the LAN Network](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/3955adc2f427930985298865819c23472dc5139f/Images/SBE_04.png)
 3. added a Win10 workstation to the LAN network,
