@@ -117,3 +117,4 @@
 ![SBE Wiki Greenbone Results](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/afccf38a155c5305060c469c89b5cda6297d7e7b/Images/SBE_25.png)
 
 6. and presented our findings to the senior engineer.
+### This was our group's first major project and it brought together the core aspects of what we have learned since we began our journey back in mid-March of 2023. While I documented alot of information in regards to what we completed in this project, it was just a sample of the steps we took to complete this project (for brevity purposes)!
