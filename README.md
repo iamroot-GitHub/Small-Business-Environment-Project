@@ -57,6 +57,9 @@
 ![SBE IIS Server Role](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/7570a8600b6f0d7844f6f35090818a7298c22576/Images/SBE_10.png)
 
 4. added a test webpage,
+
+![SBE Test Webpage](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/30e78fd6696c7eb3c79d04a83db4282cd8e9b6ee/Images/SBE_11.png)
+
 5. and verified access over the LAN network.
 ### In stage 4 we built a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) webserver on Ubuntu server over the DMZ network as follows:
 1. added an Ubuntu server to the network and linked it up,
