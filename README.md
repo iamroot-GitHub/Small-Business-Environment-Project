@@ -31,6 +31,7 @@
 ![SBE Prepared Win2012r2 Server](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/a76e02741b62d6d5f5391688a91c0690180cdb2e/Images/SBE_06.png)
 3. installed the "Active Directory Domain Services" server role,
 4. created new Active Directory user accounts,
+
 ![SBE Created AD Users](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/53474993ac5568dda9dcd59cd504143ed8bc4406/Images/SBE_07.png)
 5. prepared the Win10 workstation to join the domain,
 6. joined the Win10 workstation to the domain,
