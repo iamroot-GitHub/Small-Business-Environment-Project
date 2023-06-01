@@ -33,6 +33,7 @@
 4. created new Active Directory user accounts,
 
 ![SBE Created AD Users](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/53474993ac5568dda9dcd59cd504143ed8bc4406/Images/SBE_07.png)
+
 5. prepared the Win10 workstation to join the domain,
 6. joined the Win10 workstation to the domain,
 7. and set the desktop background on Win10 with the group policy from the Domain Controller.
