@@ -53,6 +53,9 @@
 1. added a Win2012r2 server to the network and linked it up,
 2. prepared the Win2012r2 server to join the domain,
 3. installed the "IIS" server role,
+
+![SBE IIS Server Role](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/7570a8600b6f0d7844f6f35090818a7298c22576/Images/SBE_10.png)
+
 4. added a test webpage,
 5. and verified access over the LAN network.
 ### In stage 4 we built a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) webserver on Ubuntu server over the DMZ network as follows:
