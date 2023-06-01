@@ -114,6 +114,6 @@
 
 5. documented our scan in the wiki notes page,
 
-![SBE Widgets.localdomain Wiki Greenbone Results](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/ab67fbd3444ab36550fd599aa69ba67c31eb237d/Images/SBE%20Widgets.localdomain%20Wiki%20Greenbone%20Results.png)
+![SBE Wiki Greenbone Results](https://github.com/iamroot-GitHub/Small-Business-Environment-Project/blob/afccf38a155c5305060c469c89b5cda6297d7e7b/Images/SBE_25.png)
 
 6. and presented our findings to the senior engineer.
